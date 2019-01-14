@@ -2,8 +2,8 @@
   "name": "entity-component-system",
   "version": "1.0.0",
   "description": "entity-component-system",
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
+  "main": "lib/EntityManager.js",
+  "types": "lib/EntityManager.d.ts",
   "files": [
     "lib/**/*"
   ],
