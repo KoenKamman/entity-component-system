@@ -7,11 +7,6 @@
   "files": [
     "lib/**/*"
   ],
-  "husky": {
-    "hooks": {
-      "pre-commit": "run-s format:fix lint"
-    }
-  },
   "scripts": {
     "test": "jest --config jestconfig.json",
     "build": "tsc",
